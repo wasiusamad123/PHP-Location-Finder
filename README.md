@@ -1,3 +1,3 @@
 # PHP-Location-Finder
 This project uses PHP to make API requests for a given location or place.
-The code will be posted soon
+You will have to register on Google map and generate and API so the code can work.
